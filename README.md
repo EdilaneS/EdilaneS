@@ -13,4 +13,4 @@
 
 #### Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-silva-nascimento////)](https://www.linkedin.com/in/edilane-santos/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edilanes56@gmail.com)](mailto:edilanes56@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/1/?pli=1#inbox?compose=CllgCJqZhTDVtMDGTbmjxkrQFGqTzZkbNrVMMGrMFBjWWBbJfDhBvjqxgpLJSBzbTBhZpNSlQCg)](mailto:https://mail.google.com/mail/u/1/?pli=1#inbox?compose=CllgCJqZhTDVtMDGTbmjxkrQFGqTzZkbNrVMMGrMFBjWWBbJfDhBvjqxgpLJSBzbTBhZpNSlQCg)
