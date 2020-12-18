@@ -12,5 +12,5 @@
 
 
 #### Contatos
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-silva-nascimento////)](https://www.linkedin.com/in/edilane-santos/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilane-santos////)](https://www.linkedin.com/in/edilane-santos/) 
 
